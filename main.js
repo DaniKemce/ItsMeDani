@@ -152,4 +152,4 @@ function uncache(module = '.') {
     })
 }
 
-starts()
+start()
